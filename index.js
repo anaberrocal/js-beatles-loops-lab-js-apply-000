@@ -1,4 +1,4 @@
 // add solution here
 theBeatlesPlay = () => {
-var musicians = [ ];
+var musicians = [];
 };
