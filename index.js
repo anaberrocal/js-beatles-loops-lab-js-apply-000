@@ -33,5 +33,3 @@ function johnLennonFacts(arr) {
   return newArr;
 
 };
-
-
