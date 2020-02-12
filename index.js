@@ -22,6 +22,8 @@ function johnLennonFacts(arr) {
     "He hated the sound of his own voice"
   ];
 
-
+while (i >= 0 ) {
+  newArr.push(`${facts[i]}!!!`)
+  }
 
 };
