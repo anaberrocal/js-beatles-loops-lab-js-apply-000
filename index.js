@@ -24,7 +24,7 @@ function johnLennonFacts(facts) {
 
   let newArr = [];
 
-  while (i in facts >= 0 ) {
+  while (i in facts < 4 ) {
     newArr.push(`${facts[i]}!!!`)
     }
 
