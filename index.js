@@ -39,7 +39,7 @@ function iLoveTheBeatles() {
   let newArr = [];
   let i = 0;
   do {
-
+    newArr.push("I love the Beatles!")
   }
   while ();
 };
