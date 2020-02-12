@@ -1,4 +1,4 @@
 // add solution here
-theBeatlePlay = () => {
+theBeatlesPlay = () => {
 
 };
