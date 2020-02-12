@@ -15,18 +15,11 @@ return newArr;
 
 function johnLennonFacts(arr) {
 
-  const facts = [
-    "He was the last Beatle to learn to drive",
-    "He was never a vegetarian",
-    "He was a choir boy and boy scout",
-    "He hated the sound of his own voice"
-  ];
-
   let newArr = [];
   let i  = 0;
 
   while (i <= 3) {
-    newArr.push(`${facts[i]}!!!`);
+    newArr.push(`${arr[i]}!!!`);
     i++ ;
     }
 
