@@ -35,11 +35,12 @@ function johnLennonFacts(arr) {
 };
 
 
-function iLoveTheBeatles() {
+function iLoveTheBeatles(num) {
   let newArr = [];
   let i = 0;
   do {
-    newArr.push("I love the Beatles!")
+    newArr.push("I love the Beatles!");
+    i + num;
   }
   while ();
 };
