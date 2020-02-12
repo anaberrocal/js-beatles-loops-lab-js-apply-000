@@ -13,7 +13,7 @@ return newArr;
 
 };
 
-function johnLennonFacts(facts) {
+function johnLennonFacts(arr) {
 
   const facts = [
     "He was the last Beatle to learn to drive",
