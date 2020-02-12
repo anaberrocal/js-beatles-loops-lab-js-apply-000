@@ -6,7 +6,7 @@ function theBeatlesPlay() {
 for(let i = 0; i < 5; i ++)
   for(let i = 0; i < 5; i ++)
 
-    return (`${musicians[i]} plays ${instruments[i]}`);
+    return (`${musicians[]} plays ${instruments[]}`);
 
 
 };
