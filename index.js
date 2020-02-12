@@ -13,7 +13,8 @@ return newArr;
 
 };
 
-function johnLennonFacts(arr) {
+function johnLennonFacts(facts) {
+
   let newArr = [];
 
   const facts = [
