@@ -2,5 +2,7 @@
 theBeatlesPlay = () => {
 var musicians = [];
 var instruments = [];
-for(i = 0, i)
+for(i = 0, i < musicians.length, i ++) {
+  return (``)
+}
 };
