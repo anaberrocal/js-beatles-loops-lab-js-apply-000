@@ -10,6 +10,7 @@ for(let i = 0; i < 4; i ++) {
    }
 
 return newArr;
+
 };
 
 function johnLennonFacts(arr) {
@@ -25,6 +26,7 @@ function johnLennonFacts(arr) {
   while (i in facts >= 0 ) {
     newArr.push(`${facts[i]}!!!`)
     }
+
   return newArr;
 
 };
