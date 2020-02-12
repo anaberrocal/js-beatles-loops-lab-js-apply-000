@@ -25,7 +25,7 @@ function johnLennonFacts(arr) {
   let newArr = [];
   let i  = 0;
 
-  while (i =< 3 ) {
+  while (i <= 3; i++ ) {
     newArr.push(`${facts[i]}!!!`)
     }
 
