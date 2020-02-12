@@ -4,7 +4,7 @@ function theBeatlesPlay() {
   const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
 
 for(i = 0, i < musicians.length, i ++) {
-  for(i = 0, i < instruments.length, i ++) {
+  of(i = 0, i < instruments.length, i ++) {
     return (`${musicians[i]} plays ${instruments[i]}`)
   }
  }
